@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312492923565",
+    "firebase_url": "https://mareeyafinal.firebaseio.com",
+    "project_id": "mareeyafinal",
+    "storage_bucket": "mareeyafinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312492923565:android:66a818340cce8c33838424",
+        "android_client_info": {
+          "package_name": "ya.com.mareeya_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312492923565-bkk5c1ap1u6n06ajijvb3gv9d4e4d328.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANq3xDTFstJAmVZnGj3i46Zb80K54-0FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312492923565-bkk5c1ap1u6n06ajijvb3gv9d4e4d328.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
